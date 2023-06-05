@@ -7,13 +7,13 @@ The main objective of this project is to refactor the existing code, improve cod
 ## Requirements
 
 1. Refactor the code by applying best practices such as using state management, following SOLID principles, and adhering to the DRY (Don't Repeat Yourself) principle.
-2. Replace the current state management solution (Provider) with GetX. Utilize GetX for both state management and navigation.
-3. Replace the current local data storage solution (sqflite) with Hive for better performance and easier usage.
+2. Replace the current state management solution (Provider) with GetX. Utilize GetX for both state management and navigation. [Done]
+3. Replace the current local data storage solution (sqflite) with Hive for better performance and easier usage. [Done]
 4. Optimize the performance of the application by using appropriate widgets and techniques.
 5. Ensure that the code is maintainable and readable by adding comments and documentation.
 6. Write unit and widget tests to validate the functionality and performance of the application.
-7. Add support for dark mode. The app should automatically switch between light and dark mode based on the system settings or user preference.
-8. Implement a button to toggle between list and grid view. The fetched data should be displayed in either a list or a grid, based on the user's selection.
+7. Add support for dark mode. The app should automatically switch between light and dark mode based on the system settings or user preference. [Done]
+8. Implement a button to toggle between list and grid view. The fetched data should be displayed in either a list or a grid, based on the user's selection. [Done]
 
 ## Deliverables
 
